@@ -41,4 +41,4 @@ except Exception as e:
     print(f"ファイルに書き込めませんでした。{e}")
     sys.exit()
 
-print(interpretation)
+print(interpretation) #結果をターミナルに表示
